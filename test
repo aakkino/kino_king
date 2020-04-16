@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main
+{
+int d = 1;
+printf("%d is counted.\n", d);
+return 0;
+}
