@@ -135,9 +135,9 @@ Proxy:
 
 - name: "Trojan"
   type: trojan
-  server: 233.akkkino.xyz
+  server: 233.akkkkino.xyz
   port: 443
-  password: 676db4a6
+  password: 2f194b82
 
 Proxy Group:
 # url-test 可以自动选择与指定 URL 测速后，延迟最短的服务器
